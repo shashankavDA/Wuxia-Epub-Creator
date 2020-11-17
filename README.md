@@ -15,6 +15,7 @@ lxml.
 replace url with the url of the epub you want and run it. 
 
 contact: bieleft2020@gmail.com if you have an issue
+
 I know its not official source and they steal stuff but
 the reason I used wuxiaworld.co is so the website has almost every wuxia or xianxia novels. and Extraction is much easier than other. 
 
