@@ -1,6 +1,6 @@
 # Wuxia-Epub-Creator
 -------------------------------------------------------------------------------
-A small python program which will create an Ebook by scraping wuxiaworld.co  
+A python program which will create an Ebook by scraping wuxiaworld.co  
 
 
 You need python 3.9
