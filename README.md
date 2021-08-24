@@ -1,4 +1,4 @@
-# Wuxia-Epub-Creator
+# Epub-Creator-from-Wuxia
 -------------------------------------------------------------------------------
 A python program which will create an Ebook by scraping wuxiaworld.co  
 
